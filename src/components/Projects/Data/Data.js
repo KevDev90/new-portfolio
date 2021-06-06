@@ -14,7 +14,7 @@ const data = [
     title: <a href="https://github.com/KevDev90/Food-Finder-Client" target='_black' className='title-link'>Fantastic Food Finder</a>,
     github: <a href="https://github.com/KevDev90/Food-Finder-Client" target='_black'>Github App Repo</a>,
     githubAPI: <a href="https://github.com/KevDev90/Food-Finder-Server" target='_black'>Github Server Repo</a>,
-    liveLink: <a href="https://food-finder-client-kevdev90.vercel.app/" target='_black' className='ext-link'>
+    liveLink: <a href="https://food-finder-client-kevdev90.vercel.app/" aria-label="Food Finder Live Link" target='_black' className='ext-link'>
                 <FontAwesomeIcon icon={faExternalLinkSquareAlt} />
               </a>,
     img1: <img src={llLanding} alt='' className='proj-image grow'/>,
@@ -32,7 +32,7 @@ const data = [
     title: <a href="https://github.com/KevDev90/DarkSkyFinder-Client/" target='_black' className='title-link'>DarkSky</a>,
     github: <a href="https://github.com/KevDev90/DarkSkyFinder-Client/" target='_black'>Github App Repo</a>,
     githubAPI: <a href="https://github.com/KevDev90/DarkSkyFinder-API/" target='_black'>Github Server Repo</a>,
-    liveLink: <a href="https://dark-sky-finder-client.vercel.app/" target='_black'>
+    liveLink: <a href="https://dark-sky-finder-client.vercel.app/" aria-label="DarkSky Live Link" target='_black'>
                 <FontAwesomeIcon icon={faExternalLinkSquareAlt} />
               </a>,
     img1: <img src={hhLanding} alt='' className='proj-image grow'/>,
@@ -49,7 +49,7 @@ const data = [
     title: <a href="https://github.com/KevDev90/powder-chowder/" target='_black' className='title-link'>Powder and  Chowder</a>,
     github: <a href="https://github.com/KevDev90/powder-chowder/" target='_black'>Github App Repo</a>,
     githubAPI: 'N/A',
-    liveLink: <a href="https://kevdev90.github.io/powder-chowder/" target='_black'>
+    liveLink: <a href="https://kevdev90.github.io/powder-chowder/" aria-label="Powder and Chowder Live Link" target='_black'>
                 <FontAwesomeIcon icon={faExternalLinkSquareAlt} />
               </a>,
     img1: <img src={swCurrent} alt='' className='proj-image grow'/>,
