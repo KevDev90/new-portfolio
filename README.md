@@ -1,6 +1,7 @@
 # My Portfolio
 
-See it live [here]()
+See it live [here](https://kevdev90-portfolio.herokuapp.com/)
+
 
 ## About Me
 
@@ -27,5 +28,5 @@ Some of my other hobbies include hiking, reading, snowboarding, going to concert
 ## Solo Projects
 
 * [Fantastic Food Finder](https://github.com/KevDev90/Food-Finder-Client)
-* [DarkSky](https://github.com/KevDev90/DarkSkyFinder-Client/)
-* [Powder and Chowder](https://github.com/KevDev90/powder-chowder/)
+* [DarkSky](https://github.com/KevDev90/DarkSkyFinder-Client)
+* [Powder and Chowder](https://github.com/KevDev90/powder-chowder)
